@@ -36,13 +36,8 @@ section{
     display: flex;
     align-items: center;
 }
-.blog-detail h3{
-    font-size: 20px;
-    color: black;
-}
-.blog-detail p{
-    font-size: 15px;
-}
+
+
 .player img{
     width: 50px;
     margin-right: 20px;
